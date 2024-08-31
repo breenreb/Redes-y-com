@@ -5,9 +5,9 @@
 
 
 Lista de materias con notas
-| Columna 1 | Columna | Columna 3 |
+| Matemática | Estadistica | Desarrollo Web |
 |-----------|:-------:|----------:|
-|fila 1, 8| fila 2, 5| fila 3, 6|
+|     8     |    5    |     6     |
 
 
 
