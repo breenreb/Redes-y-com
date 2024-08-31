@@ -5,9 +5,9 @@
 
 
 Lista de materias con notas
-| Matemática | Estadistica | Desarrollo Web |
-|-----------|:-------:|----------:|
-|     8     |    5    |     6     |
+| Matemática | Estadistica | Desarrollo Web | | Practica Profesionalizante |
+|-----------|:-------:|----------:||----------:|
+|     8     |    5    |    6      ||    10      |
 
 
 
